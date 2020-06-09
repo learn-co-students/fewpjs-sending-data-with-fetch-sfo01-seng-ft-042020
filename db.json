@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,22 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "dogName": "Timmy",
+      "dogBreed": "turner",
+      "submit": "Submit",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +35,83 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "JimmyMac10101",
+      "email": "JamesMcelroy813@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "JimmyMac1010112",
+      "email": "JamesMcelroy813@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "JimmyMac1010221",
+      "email": "JamesMcelroy813@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "JimmyMac10101",
+      "email": "JamesMcelroy813@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "WelcomToThatSHOW",
+      "email": "GetComfortablebitch",
+      "id": 5
+    },
+    {
+      "name": "WelcomToThatSHOW",
+      "email": "GetComfortablebitch",
+      "id": 6
+    },
+    {
+      "name": "WelcomToThatSHOW",
+      "email": "GetComfortablebitch",
+      "id": 7
+    },
+    {
+      "name": "yahauhaygha",
+      "email": "asdfasd",
+      "id": 8
+    },
+    {
+      "name": "hello bitch",
+      "email": "welcome to the show",
+      "id": 9
+    },
+    {
+      "name": "plop plop plop",
+      "email": "you know what it do",
+      "id": 10
+    },
+    {
+      "name": "does this work",
+      "email": "who knows",
+      "id": 11
+    },
+    {
+      "name": "second try",
+      "email": "What am i gonna do ?",
+      "id": 12
+    },
+    {
+      "name": "second try",
+      "email": "What am i gonna do asdf?",
+      "id": 13
+    },
+    {
+      "name": "finesser",
+      "email": "neverStresser",
+      "id": 14
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
